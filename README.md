@@ -6,3 +6,10 @@ I am learning to write code to advance a nebulous vision of 'self-improvement', 
 I wish my headache would go away.  
 
 Pretend these are lines of code, I am learning to do commits.  PRETEND.  
+
+WORDS, WORDS, WORDS, WORDS
+<<<<<<<<<<<<<<<<<<<<<<<<<<
+CODE, CODE, CODE, CODE
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+It is important, what we are doing, here.  
